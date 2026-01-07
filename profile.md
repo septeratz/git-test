@@ -1,5 +1,8 @@
 ### Greetings!
 안녕하세요! 저는 개발자 이명진입니다.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dfghjk23)](https://solved.ac/dfghjk23)
+
 ## Projects
 
 ## Tech Skills
